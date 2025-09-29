@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace MathUtils;
+
+namespace AdvancedUtils
+{
+	int square(int a)
+	{
+		return multiply(a, a);
+	}
+}
